@@ -3,3 +3,5 @@ This is a test repo in master for git learning
 add some new text
 
 change something in master, and dev also change something.
+test for merge way different
+test for merge way different 02
